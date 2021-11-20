@@ -1,0 +1,22 @@
+{
+    "name": "this will be used when the app is installed",
+    "short_name": "name on home",
+    "start_url": "/index.htm",
+    "display": "standalone",
+    "background_color": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "img/icons/192.png",
+            "type": "image/png",
+            "sizes": "192x192" 
+        },
+        {
+            "src": "img/icons/512.png",
+            "type": "image/png",
+            "sizes": "512x512" 
+        } 
+    ]
+
+}
